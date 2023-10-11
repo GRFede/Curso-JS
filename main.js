@@ -41,6 +41,6 @@ else if (Producto === "si") {
         }
     }
 }
-else (alert("Usted no esta poniendo una opcion correcta. Vuelva a intentar y coloque si o no."))
+else (alert("Usted no esta poniendo una opcion correcta. Vuelva a intentarlo actualizando la paguina y coloque si o no."))
 
 }
